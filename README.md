@@ -1,2 +1,1 @@
-# Our code for SPLF-SAM: SELF-PROMPTING SEGMENT ANYTHING MODEL FOR LIGHT FIELD SALIENT OBJECT DETECTION will be fully Released since its publication #
 
